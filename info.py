@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://github.com/SattarWajith/VJ-FILTER-BOT/blob/Tech_VJ/plugins/photo_2025-03-15_01-27-04.png')).split()
+PICS = (environ.get('PICS', 'https://i.postimg.cc/tCd8svPW/photo-2025-03-15-01-27-04.jpg')).split()
 
 
 # Admins & Users
